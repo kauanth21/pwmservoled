@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/servoled.uf2'
+elf = 'build/servoled.elf'
